@@ -18,5 +18,4 @@ Updata version:V1.31
 Note when updating to v1.31:
 
 - The marlin version needs to be updated synchronously
-
 - Need to enable "\#define USE_MKS_GREEN_UI " in "DGUSDisplayDef.h"
