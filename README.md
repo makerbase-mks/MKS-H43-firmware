@@ -13,6 +13,12 @@ More instruction about how to develop and buid the source code, please download 
 
 ## Updata
 
+Updata new branch
+
+- Update the new display to support the use of marlin bugfix
+
+---------------------------------------------------------------------------------------------------------------------------
+
 Updata version:V1.31
 
 Note when updating to v1.31:
