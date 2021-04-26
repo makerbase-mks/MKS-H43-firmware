@@ -11,6 +11,15 @@ If you want to customize your own UI on MKS H43, or modify some functions, you c
 
 More instruction about how to develop and buid the source code, please download the develop guide:[T5L_DGUSII Application Development Guide](https://github.com/makerbase-mks/MKS-H43/blob/main/Tool/T5L_DGUSII%20Application%20Development%20Guide20200902.pdf)
 
+## Note
+
+Branch:
+
+- main
+- H43_for_Marlin
+
+If you want to use Marlin_ Bugfix, Please select branch H43_for_Marlin.
+
 ## Updata
 
 Updata new branch
