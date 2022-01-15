@@ -11,7 +11,7 @@ If you want to customize your own UI on MKS H43, or modify some functions, you c
 
 More instruction about how to develop and buid the source code, please download the develop guide:[T5L_DGUSII Application Development Guide](https://github.com/makerbase-mks/MKS-H43/blob/main/Tool/T5L_DGUSII%20Application%20Development%20Guide20200902.pdf)
 
-## Note
+## Notice
 
 Branch:
 
@@ -28,3 +28,15 @@ Note when updating to v1.31:
 
 - The marlin version needs to be updated synchronously
 - Need to enable "\#define USE_MKS_GREEN_UI " in "DGUSDisplayDef.h"
+
+## Note
+- Thank you for using MKS products. If you have any questions during use, please contact us in time and we will work with you to solve it.
+- For more product dynamic information and tutorial materials, you can always follow MKS's Facebook/Twitter/Discord/Reddit/Youtube and Github. Thank you!
+- MKS Github: https://github.com/makerbase-mks  
+- MKS Facebook: https://www.facebook.com/Makerbase.mks/  
+- MKS Twitter: https://twitter.com/home?lang=en  
+- MKS Discord: https://discord.gg/4uar57NEyU
+- MKS Reddit: https://www.reddit.com/user/MAKERBASE-TEAM/ 
+
+![mks_link](https://user-images.githubusercontent.com/12979070/149612450-0e4f090e-215b-4f56-bb46-9f26fa4c4874.png)
+
